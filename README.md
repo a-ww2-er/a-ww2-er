@@ -63,7 +63,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ### 🧐 More About Me:
 
-      <ul>
+      <ol>
         <li>
           🔭 I’m currently studying at **SENA**
         </li>
@@ -88,7 +88,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
         <li>
           📝 Checkout my [Page](https://www.davidsdvm.com/) 
         </li>
-</ul>
+    </ol>
  
 <br><br><br>
 
