@@ -11,7 +11,7 @@ ur welcome ;)
 <!-- <a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>-->
 
 <!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
+<!-- <h1 align="center"> Social Media: </h1>
   <p align="center">
     <a href="https://stackoverflow.com/users/story/16787643">
       <img src="https://img.shields.io/badge/stack%20overflow-7cebf5?&style=for-the-badge&logo=stack%20overflow&logoColor=black">
@@ -26,7 +26,7 @@ ur welcome ;)
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
-</h1>
+</h1> -->
 
 <hr>
 
@@ -63,32 +63,14 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 ### 🧐 More About Me:
 
-      <ol>
-        <li>
-          🔭 I’m currently studying at **SENA**
-        </li>
-        <li>
+          
+          🔭 I’m currently studying 
           🤝 I’m looking to collaborate on Open Source Proyects
-        </li>
-        <li>
-          🌱 I’m currently learning Django & NestJS; 
-        </li>
-        <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
-        </li>
-        <li>
+          🌱 I’m currently learning ASP.NET & Bunjs; 
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/a-ww2-er?tab=repositories)
           💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-        </li>
-        <li>
           📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-        </li>
-        <li>
           🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
-        </li>
-    </ol>
  
 <br><br><br>
 
