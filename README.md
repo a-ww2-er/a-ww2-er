@@ -62,15 +62,14 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 </table> -->
 
 ### 🧐 More About Me:
-
-          
-          🔭 I’m currently studying 
-          🤝 I’m looking to collaborate on Open Source Proyects
-          🌱 I’m currently learning ASP.NET & Bunjs; 
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/a-ww2-er?tab=repositories)
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-          🎷 When I am free, I like to play the Sax
+<br />
+🔭 I’m currently studying <br />
+🤝 I’m looking to collaborate on Open Source Proyects<br />
+🌱 I’m currently learning ASP.NET & Bunjs; <br />
+👨🏻‍💻 Most of my projects are available on [Github](https://github.com/a-ww2-er?tab=repositories)<br />
+💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);<br />
+📫 Feel free to contact me on [dicord](illneas.)<br />
+🎷 When I am free, I like to model 3d characters and animate<br />
  
 <br><br><br>
 
