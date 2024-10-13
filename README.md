@@ -36,7 +36,7 @@ ur welcome ;)
 Hey!!! <br />
 I am Daniel Wales better known as 'a-ww2-er'🕵🏼‍♂️ <br />
 I specialize in creating bots with Python and Node.js ,developing applications with C# and .NET, and crafting websites and mobile apps.<br />
-Proficient in SQL and NoSQL databases, I excel in cloud computing, DevOps, and designing scalable solutions for modern software development<br />
+Proficient in SQL and NoSQL databases, I focus on cloud computing, DevOps, and designing scalable solutions for modern software development<br />
 If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
