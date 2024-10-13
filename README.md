@@ -33,10 +33,10 @@ ur welcome ;)
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-Eyyyy!!! <br />
-I am <b>Daniel Wales</b> better known as 'a-ww2-er'🕵🏼‍♂️ <br />
-I love developing new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
+Hey!!! <br />
+I am Daniel Wales better known as 'a-ww2-er'🕵🏼‍♂️ <br />
+I specialize in creating bots with Python and Node.js ,developing applications with C# and .NET, and crafting websites and mobile apps.<br />
+Proficient in SQL and NoSQL databases, I excel in cloud computing, DevOps, and designing scalable solutions for modern software development<br />
 If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
@@ -64,11 +64,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 ### 🧐 More About Me:
 <br />
 🔭 I’m currently studying <br />
-🤝 I’m looking to collaborate on Open Source Proyects<br />
-🌱 I’m currently learning ASP.NET & Bunjs; <br />
+🤝 I’m looking to collaborate on Open Source Projects<br />
 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/a-ww2-er?tab=repositories)<br />
 💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);<br />
-📫 Feel free to contact me on [dicord](illneas.)<br />
+📫 Feel free to contact me on [discord](illneas.)<br />
 🎷 When I am free, I like to model 3d characters and animate<br />
  
 <br><br><br>
