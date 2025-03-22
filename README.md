@@ -77,7 +77,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
-  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" title="C#" src="./assets/c#.webp" height="42"></a></code>
+  <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" title="C#" src="./assets/csharp.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="./assets/typescript.png" height="42"></a></code>
   <code><a href="https://nextjs.org/"><img alt="Next.js" title="Next.js" src="./assets/nextjs.png" height="42"></a></code>
@@ -90,12 +90,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <code><a href="https://flask.palletsprojects.com/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
   <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fastapi.png" height="42"></a></code>
   <code><a href="https://reactnative.dev/"><img alt="React Native" title="React Native" src="./assets/reactnative.svg" height="42"></a></code>
-  <code><a href="https://expo.dev/"><img alt="Expo" title="Expo" src="./assets/expo.png" height="42"></a></code>
+  <code><a href="https://expo.dev/"><img alt="Expo" title="Expo" src="./assets/expo.svg" height="42"></a></code>
   <code><a href="https://www.electronjs.org/"><img alt="Electron.js" title="Electron.js" src="./assets/electron.png" height="42"></a></code>
   <code><a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-7.0"><img alt="WinForms" title="WinForms" src="./assets/winforms-logo.png" height="42"></a></code>
   <code><a href="https://tailwindcss.com/"><img alt="Tailwind CSS" title="Tailwind CSS" src="./assets/tailwind.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/html/"><img alt="HTML" title="HTML" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://www.w3.org/Style/CSS/"><img alt="CSS" title="CSS" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
   <code><a href="https://www.langchain.com/"><img alt="LangChain" title="LangChain" src="./assets/langchain.png" height="42"></a></code>
 </p>
 <br>
@@ -108,12 +107,13 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <code><a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="./assets/docker.png" height="42"></a></code>
   <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="./assets/kubernetes.png" height="42"></a></code>
   <code><a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" src="./assets/firebase.png" height="42"></a></code>
-  <code><a href="https://redis.io/"><img alt="Redis" title="Redis" src="./assets/redis.png" height="42"></a></code>
+  <code><a href="https://redis.io/"><img alt="Redis" title="Redis" src="./assets/redis.svg" height="42"></a></code>
   <code><a href="https://cloud.google.com/bigquery"><img alt="Google BigQuery" title="Google BigQuery" src="./assets/bigquery.png" height="42"></a></code>
+    <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
 </p>
 <br>
 
-<h1 align="center"> Environments I Work With: </h1>
+<h1 align="center"> Environments I Work In: </h1>
 <p align="center">
   <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
