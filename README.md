@@ -31,7 +31,7 @@ ur welcome ;)
 <hr>
 
 <!-- Description about me -->
-<h2 align="center"> 🤔 About me 👨‍💻 </h2>
+<h2 align="center">  Who's this? </h2>
 
 Hey!!! <br />
 I am Daniel Wales better known as 'a-ww2-er'🕵🏼‍♂️ <br />
@@ -61,14 +61,15 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     </tr>
 </table> -->
 
-### 🧐 More About Me:
+### More About Me:
 <br />
 🔭 I’m currently studying <br />
 🤝 I’m looking to collaborate on Open Source Projects<br />
 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/a-ww2-er?tab=repositories)<br />
 💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);<br />
-📫 Feel free to contact me on [discord](illneas.)<br />
+📫 Feel free to contact me on [discord](relichk)<br />
 🎷 When I am free, I like to model 3d characters and animate<br />
+P.S > <b>I use arch btw...</b>
  
 <br><br><br>
 
